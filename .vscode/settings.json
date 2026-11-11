@@ -1,0 +1,7 @@
+{
+    "editor.codeLensFontSize": 16,
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/.venv/Lib/site-packages"
+    ]
+}
